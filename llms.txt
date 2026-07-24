@@ -1,0 +1,26 @@
+# Seaforth Heating & Cooling
+
+> Seaforth Heating & Cooling is a local HVAC company serving Seaforth, Perth/Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 527-1483  |  Email: contact@seaforthheatingcooling.ca  |  Website: https://seaforthheatingcooling.ca
+
+Service areas: Seaforth, Stratford, Mitchell, Goderich, Listowel, Clinton, Wingham
+
+## Key pages
+
+- [Home](https://seaforthheatingcooling.ca/): Seaforth Heating & Cooling homepage with service overview and FAQ
+- [About](https://seaforthheatingcooling.ca/about/): About the company and service area
+- [Contact](https://seaforthheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://seaforthheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Seaforth, Ontario
+- [AC Installation & Repair](https://seaforthheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Seaforth, Ontario
+- [Heat Pumps](https://seaforthheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Seaforth, Ontario
+- [Duct Cleaning](https://seaforthheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Seaforth, Ontario
+- [Thermostats](https://seaforthheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Seaforth, Ontario
+- [Ductless AC Installation](https://seaforthheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Seaforth, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Seaforth are answered on the homepage.
